@@ -106,4 +106,4 @@ Dataset Used: [Kaggle: mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/
 ---
 
 ## Author
-Shashwat Gupta
+Manas Malik
